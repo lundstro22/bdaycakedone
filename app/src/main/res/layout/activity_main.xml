@@ -111,10 +111,10 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/malia"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="@string/blow_out" />
+                android:text="Malia's button" />
 
             <Button
                 android:id="@+id/button"
